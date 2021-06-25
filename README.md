@@ -8,6 +8,6 @@ Check out [toit.io](https://toit.io/) for more information about Toit.
 
 You can see the code running on an ESP32 here, talking with my Toyota Yaris:
 
-[![Demo](https://img.youtube.com/vi/oubwb3fsU4E/0.jpg)](https://youtu.be/oubwb3fsU4E)
+[![Demo](https://img.youtube.com/vi/JNXUo8c42LM/0.jpg)](https://youtu.be/JNXUo8c42LM)
 
 The DBC2 protocol is very broadly adopted and should work in most cars.

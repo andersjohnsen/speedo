@@ -1,0 +1,10 @@
+prefixes:
+  dbc: dbc
+  mcp2518fd: mcp2518fd-driver
+packages:
+  dbc:
+    url: github.com/toitware/dbc
+    version: 1.0.1
+  mcp2518fd-driver:
+    url: github.com/toitware/mcp2518fd-driver
+    version: 1.0.2
